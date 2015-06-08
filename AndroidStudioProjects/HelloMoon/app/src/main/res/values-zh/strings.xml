@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">你好，月亮</string>
+
+    <string name="action_settings">设置</string>
+
+    <string name="hellomoon_play">开始</string>
+    <string name="hellomoon_stop">暂停</string>
+    <string name="hellomoon_description">阿姆斯特朗上月球</string>
+</resources>
